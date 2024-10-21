@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [very_cool_site]([https://your-live-site-url.com](https://davirockkk.github.io/newsletter-sign-up/))
+- Live Site URL: [newsletter sign up](https://davirockkk.github.io/newsletter-sign-up/)
 
 ### Built with
 
