@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [](https://your-live-site-url.com)
+- Live Site URL: [newsletter sing up]([https://your-live-site-url.com](https://davirockkk.github.io/newsletter-sign-up/))
 
 ### Built with
 
